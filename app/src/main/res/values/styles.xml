@@ -1,0 +1,21 @@
+<!-- res/values/styles.xml -->
+<resources>
+
+
+        <style name="AddButtonStyle">
+            <item name="android:backgroundTint">#00ff00</item>
+            <item name="android:textSize">25sp</item>
+            <item name="android:textStyle">bold</item>
+        </style>
+        <style name="DeleteButtonStyle">
+            <item name="android:backgroundTint">#ff0066</item>
+            <item name="android:textSize">15sp</item>
+            <item name="android:textStyle">bold</item>
+        </style>
+    <style name="UpdateButtonStyle">
+        <item name="android:backgroundTint">#0066ff</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
